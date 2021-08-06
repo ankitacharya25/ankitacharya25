@@ -4,7 +4,7 @@
 <!-- <img align ="right" src = "https://i.imgur.com/givWeSs.png" width="200"> -->
 <img align ="right" src = "https://www.pinclipart.com/picdir/big/148-1489704_obiwan-github-cat-clipart.png" width="130" alt=May the force be with you!>
 
-### Hello World! 👋 I am Ankit Acharya<br>
+## Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px"> I am Ankit Acharya<br>
 
 <!-- Hi!👋 I am <b>Ankit Acharya</b><br> -->
 🎓 I’m a senior pursuing my bachelor's in Computer Science & Engineering.<br>
